@@ -1,5 +1,4 @@
-Hi, I’m @iamcephas11
-
+Hi, I’m @khodecephas
 ** I’m interested in building web applications and exploring the world of Artificial Intelligence.**
 
 ** I’m currently learning Python to enhance my web development skills and open doors to AI projects.**  I'm focusing on data structures, algorithms, and libraries like NumPy and Pandas to lay a solid foundation.
